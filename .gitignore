@@ -1,0 +1,7 @@
+.env
+stores/
+.cache/
+.streamlit/
+.db/
+srcData/
+.venv/

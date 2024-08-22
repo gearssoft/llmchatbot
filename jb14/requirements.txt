@@ -1,0 +1,9 @@
+langchain
+openai
+pypdf
+tiktoken
+python-dotenv
+cchardet
+chromadb
+Flask
+flask_cors
